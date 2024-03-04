@@ -84,9 +84,7 @@ We reserve the right to:
 
 **Our Data Usage**
 
-We keep the information you put (database coins,
-
- etc.), your Discord Username and the executed command to make it run faster for you.
+We keep the information you put (database coins, etc.), your Discord Username and the executed command to make it run faster for you.
 
 Your Rights as a Data Subject
 
@@ -116,9 +114,8 @@ The above copyright notice and this permission notice shall be included in all c
 
 For inquiries related to Currenton, users can reach us via Discord or email. We are committed to data protection laws, including the EU General Data Protection Regulation (GDPR).
 
-Discord: [Link]
-Email: agentpingu@icloud.com
-(Add “Currenton related” to the email subject for expedited responses).
+[[Discord]](https://discord.com/users/765999408692330496)
+Email: currenton@icloud.com
 
 ---
 
