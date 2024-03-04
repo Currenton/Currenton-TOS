@@ -6,7 +6,7 @@
 
 **Agreement to Terms**
 
-These Terms of Use form a legally binding agreement between you (whether individually or representing an entity) and Sev6n, the creator of Currenton. By accessing and using the Currenton platform, including any related media form, website, or mobile application within Discord (collectively referred to as the "Services"), you affirm that you have read, understood, and consent to abide by all the terms outlined herein. If you do not agree with any part of these terms, you are expressly prohibited from using the Services and must discontinue use immediately.
+These Terms of Use constitute a legally binding agreement made between you (whether individually or representing an entity) and Sev6n, the creator of Currenton. By accessing and using the Currenton platform, including any related media form, website, or mobile application within Discord (collectively referred to as the "Services"), you affirm that you have read, understood, and consent to abide by all the terms outlined herein. If you do not agree with any part of these terms, you are expressly prohibited from using the Services and must discontinue use immediately.
 
 Supplemental terms or documents posted on the website are incorporated herein by reference. We reserve the right to modify these Terms of Use at our discretion, with any changes being effective upon posting the updated terms. Your continued use of the Services constitutes acceptance of the revised terms.
 
@@ -43,18 +43,25 @@ Users are prohibited from engaging in activities including, but not limited to:
 4. Actions that harm the reputation or functionality of the Services.
 5. Use of obtained information for harassment or abuse.
 6. Misuse of support services or submission of false reports.
-7. Violations of applicable laws or regulations.
-8. Unauthorized framing or linking to the website.
-9. Transmission of harmful content, including viruses or spam.
-10. Use of automated tools or scripts to manipulate the Services.
-11. Impersonation of other users.
-12. Uploading of spyware or passive collection mechanisms.
-13. Disruption of Services or harassment of staff.
-14. Attempts to bypass access restrictions.
-15. Unauthorized modification or distribution of software.
-16. Reverse engineering or decryption of software components.
-17. Use of unauthorized automation within Discord.
-18. Engagement in unauthorized advertisements.
+7. Use the Services in a manner inconsistent with any applicable laws or regulations.
+8. Engage in unauthorized framing of or linking to the website.
+9. Upload or transmit (or attempt to upload or to transmit) viruses, Trojan horses, or other material, including excessive use of capital letters and spamming (continuous posting of repetitive text), that interferes with any party’s uninterrupted use and enjoyment of the Services or modifies, impairs, disrupts, alters, or interferes with the use, features, functions, operation, or maintenance of the Services;
+10. Engage in any automated use of the system, such as using scripts to send comments or messages, or using any data mining, robots, or similar data gathering and extraction tools;
+11. Delete the copyright or other proprietary rights notice from any Content;
+12. Attempt to impersonate another user or person or use the username of another user;
+13. Upload or transmit (or attempt to upload or to transmit) any material that acts as a passive or active information collection or transmission mechanism, including without limitation, clear graphics interchange formats (“gifs”), 1×1 pixels, web bugs, cookies, or other similar devices (sometimes referred to as “spyware” or “passive collection mechanisms” or “pcms”);
+14. Interfere with, disrupt, or create an undue burden on the Services or the networks or services connected to the Services;
+15. Harass, annoy, intimidate, or threaten any of our employees or agents engaged in providing any portion of the Services to you;
+16. Attempt to bypass any measures of the Services designed to prevent or restrict access to the Services, or any portion of the Services;
+17. Copy or adapt the Services’s software, including but not limited to Flash, PHP, HTML, JavaScript, or other code;
+18. Except as permitted by applicable law, decipher, decompile, disassemble, or reverse engineer any of the software comprising or in any way making up a part of the Services;
+19. Except as may be the result of standard search engine or Internet browser usage, use, launch, develop, or distribute any automated system, including without limitation, any spider, robot, cheat utility, scraper, or offline reader that accesses the website, or using or launching any unauthorized script or other software;
+20. Make any unauthorized use of the Services, including collecting usernames and/or email addresses of users by electronic or other means for the purpose of sending unsolicited email, or creating user accounts by automated means or under false pretenses;
+21. Use the Services as part of any effort to compete with us or otherwise use the Services and/or the Content for any revenue-generating endeavor or commercial enterprise;
+22. Exchange virtual currency for real value in any way;
+23. Initiate illegitimate chargebacks;
+24. Use any type of unauthorized automation within Discord;
+25. Use the service for unauthorized advertisements.
 
 ---
 
@@ -75,27 +82,33 @@ We reserve the right to:
 
 ---
 
-**Data Usage**
+**Our Data Usage**
 
-We collect and store user-provided information to optimize service performance. Users have rights regarding their data as outlined in data protection laws.
+We keep the information you put (database coins,
 
----
+ etc.), your Discord Username and the executed command to make it run faster for you.
 
-**Payments**
+Your Rights as a Data Subject
 
-No payments are currently required for service usage. Future updates may introduce payment options.
+You can exercise the following rights at any time using the contact details provided by our data protection officer: Information about your data stored by us and their processing (Art. 15 GDPR), Correction of incorrect personal data (Art. 16 GDPR), Deletion of your data stored by us (Art. 17 GDPR), Restriction of data processing, insofar as we are not yet allowed to delete your data due to legal obligations (Art. 18 GDPR), Objection to the processing of your data by us (Art. 21 GDPR) Data portability, provided you have consented to data processing or have concluded a contract with us (Art. 20 GDPR). If you have given us your consent, you can revoke it at any time with future effect.
+
+Payments
+
+No payments are required for use of our project. We may add it in sooner updates!
 
 ---
 
 **Links to External Websites**
 
-The Services may contain links to external sites not operated by us. We are not responsible for the content or practices of these sites.
+Our service may contain links to external websites that are not operated by us.
 
 ---
 
 **License**
 
-The Services operate under the MIT License, granting users certain rights to the software. Users are subject to the terms outlined in the license agreement.
+MIT License
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ---
 
@@ -106,6 +119,22 @@ For inquiries related to Currenton, users can reach us via Discord or email. We 
 Discord: [Link]
 Email: agentpingu@icloud.com
 (Add “Currenton related” to the email subject for expedited responses).
+
+---
+
+**Terms for Substack Newsletter**
+
+The following terms apply to the Substack newsletter affiliated with Currenton:
+
+[Add Substack newsletter terms here]
+
+---
+
+**Terms for Website and Cookies**
+
+The following terms apply to the Currenton website and its use of cookies:
+
+[Add Website and Cookies terms here]
 
 ---
 
