@@ -92,7 +92,28 @@ You can exercise the following rights at any time using the contact details prov
 
 Payments
 
-No payments are required for use of our project. We may add it in sooner updates!
+When making payments for the Aumount Discord bot Premium Tier, you agree to the following terms:
+
+Subscription: By selecting the Premium Tier payment plan, you agree to subscribe to the Aumount Discord bot Premium Tier for the specified period.
+
+Payment Authorization: By providing payment information, you authorize Aumount to charge the applicable subscription fee to your chosen payment method.
+
+Payment Processing: Payments for the Aumount Discord bot Premium Tier are processed securely through our payment processor. Aumount does not store your payment information.
+
+Subscription Renewal: Unless cancelled, subscriptions will automatically renew at the end of the billing period. You will be charged the applicable subscription fee for the next billing cycle.
+
+Cancellation and Refunds: You may cancel your subscription at any time. However, Aumount does not offer refunds for partially used billing periods.
+
+Features: The Premium Tier of the Aumount Discord bot subscription offers access to advanced features, including:
+
+Customizable commands: Tailor the bot's commands to suit your server's needs.
+Advanced moderation tools: Manage your server more effectively with advanced moderation features.
+Premium support: Receive priority support from our team to address any issues or inquiries promptly.
+Changes to Pricing and Features: Aumount reserves the right to modify pricing plans and features at any time. Subscribers will be notified in advance of any changes to their subscription.
+
+Limitation of Liability: Aumount shall not be liable for any loss or damage arising from the use of the Discord bot or subscription services.
+
+Contact Information: For inquiries related to payment or subscription services for the Aumount Discord bot, users can contact us via Discord or email.
 
 ---
 
