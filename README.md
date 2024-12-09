@@ -1,6 +1,6 @@
 **Terms of Service for all of Currenton’s Services**
 
-*Last updated: February 29th, 2024*
+*Last updated: December 10th, 2024*
 
 ---
 
@@ -137,28 +137,6 @@ For inquiries related to Currenton, users can reach us via Discord or email. We 
 
 [[Discord]](https://discord.com/users/765999408692330496)
 Email: currenton@icloud.com
-
----
-
-**Terms for Substack Newsletter**
-
-The following terms apply to the Substack newsletter affiliated with Currenton:
-
-Subscription: Your subscription to the Currenton Substack newsletter is voluntary and can be terminated at any time.
-
-Content: The content provided in the newsletter is for informational purposes only. Currenton makes no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, or availability of the information contained in the newsletter.
-
-Use of Information: Any information provided in the newsletter is not intended to constitute professional advice. You acknowledge that any reliance you place on such information is at your own risk.
-
-Intellectual Property: All content included in the newsletter, including but not limited to text, graphics, logos, images, and software, is the property of Currenton or its content suppliers and is protected by copyright laws.
-
-Use of Data: Currenton may collect and store your email address and other information provided during subscription for the purpose of sending you newsletters and other relevant communications. We are committed to protecting your privacy and will not share your information with third parties without your consent.
-
-Unsubscribe: You have the right to unsubscribe from the newsletter at any time. Instructions for unsubscribing are included in every newsletter email.
-
-Changes to Terms: Currenton reserves the right to modify or revise these terms at any time. By continuing to subscribe to the newsletter after any such changes, you agree to be bound by the modified terms.
-
-
 
 ---
 
