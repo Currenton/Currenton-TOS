@@ -1,5 +1,3 @@
-Certainly, here's the organized text formatted for visual appeal:
-
 ---
 
 **Currenton, LLC Copyright Infringement Takedown Policy and Instructions**
@@ -43,9 +41,6 @@ Your notice must include substantially the following information:
 Currenton, LLC's designated agent to receive notification of claimed infringement is:
 
 currenton@icloud.com
-1 Currenton St.
-+1 (603) 592-5407
-Attn: Legal Department
 
 ---
 
@@ -87,10 +82,6 @@ Currenton, LLC cannot and does not judge the merits of your claim (or countercla
 Currenton, LLC's designated agent to receive notification of Counter claim Notification is:
 
 currenton@icloud.com
-1 Currenton St.
-+1 (603) 592-5407
-Attn: Legal Department
-
 ---
 
 **Additional Information:**
