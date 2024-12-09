@@ -1,5 +1,3 @@
----
-
 **Currenton, LLC Copyright Infringement Takedown Policy and Instructions**
 
 Currenton, LLC has agreed to process takedown requests according to the statement below.
